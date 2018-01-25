@@ -1,3 +1,8 @@
+##This is a tool written for an assignment to analyze data given by NASA. 
+##Basically, it tells the user with the longest gap in activity via XML in Ruby
+##Written by Alexander Peck - For CS-208 - Knox College
+
+
 # coding: utf-8
 text = '/home/courses/cs208/web_log'
 

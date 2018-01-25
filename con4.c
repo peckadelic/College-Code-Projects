@@ -1,3 +1,8 @@
+//This is an implementation of an 8x8 game of Connect 4 written in C
+//Nearly the exact same as my Scala implementation. 
+//Written by Alexander Peck - CS-208 - Knox College
+
+
 #include <stdlib.h>
 #include <stdio.h>
 

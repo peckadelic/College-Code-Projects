@@ -1,3 +1,8 @@
+//This is an implementation of Connect 4 written in Scala
+//This version supports any size board, along with any number of consecutive pieces to win, both given by the user
+//Written by Alex Peck - CS-208 - Knox College
+
+
 println("Enter the size of the gameboard.")
 val size = readInt
 println("How many pieces in a row to win?")

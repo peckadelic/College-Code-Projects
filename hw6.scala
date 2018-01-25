@@ -1,3 +1,6 @@
+//This tool used a database of baby names, This and hw66.scala in this repository build off of eachother. 
+//This one just gives the highest number of Male and Female names ber year
+
 import scala.xml.XML
 val names = XML.loadFile("/home/courses/cs208/babynames.xml")
 val outerRows = names \ "row"

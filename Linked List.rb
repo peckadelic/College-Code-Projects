@@ -1,3 +1,8 @@
+##This is an implementation of linked list written in ruby, with various manipulation methods
+##Author: Alexander Peck
+##For: CS-208 Programming Langauges - Knox College
+
+
 class Node
   attr_accessor :val, :next
 

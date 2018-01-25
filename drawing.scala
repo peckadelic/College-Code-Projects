@@ -1,3 +1,7 @@
+//This is an Implementation of a drawing tool written in Scala
+//Author: Alexander Peck
+
+
 var movecheck = 0
 
 println("Hello. How many drawing commands do you wish to use?")
